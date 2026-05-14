@@ -1,0 +1,1 @@
+A modern user search interface built with HTML, CSS, TailwindCSS, and JavaScript. The project dynamically generates profile cards and allows users to search profiles in real time using a responsive search input.
